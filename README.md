@@ -9,7 +9,7 @@
 ```bash
 $ curl -sSL https://localhost:8000/api/v1/populations | jq
 {
-	"北海道": [
+  "北海道": [
     "years": {
       "1980": {
         "all": 12345, # 総人口
